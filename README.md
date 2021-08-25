@@ -1,6 +1,6 @@
 # Coding101-2021
 
-Coding 101 Intensive is a 2-week summer program offered by the Tufts Pre-College Programs. Pre-college students (9th-12th grade + incoming college freshmen) are selected worldwide based on their performance in prior STEM courses, SAT/ACT scores, professional recommendation letters, as well as their ability to engage in and learn brand new concepts. Each student who successfully completes the Coding 101 Intensive program receives 2 Tufts University credits towards their future degree. 
+Coding 101 Intensive is a 2-week summer program offered by the Tufts Pre-College Programs. Pre-college students (11-12th grade + incoming college freshmen) are selected worldwide based on their performance in prior STEM courses, SAT/ACT scores, professional recommendation letters, as well as their ability to engage in and learn brand new concepts. Each student who successfully completes the Coding 101 Intensive program receives 2 Tufts University credits towards their future degree. 
 
 - Coding 101 Program: https://universitycollege.tufts.edu/high-school/programs/coding-101
 - Tufts Pre-College Programs: https://universitycollege.tufts.edu/high-school
