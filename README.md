@@ -5,9 +5,9 @@ Coding 101 Intensive is a 2-week summer program offered by the Tufts Pre-College
 - Coding 101 Program: https://universitycollege.tufts.edu/high-school/programs/coding-101
 - Tufts Pre-College Programs: https://universitycollege.tufts.edu/high-school
 
-This repository serves to hold all materials covered in the 2021 summer iteration of the Coding 101 Intensive program. For an overview of the summer, see the uploaded schedule. For perspective, students were introduced to all concepts that appear in the current COMP 11 (Intro to CS) curriculum at Tufts University, with the exception of recursion, over the course of 10 days. 
+This repository serves to hold all materials covered in the 2021 summer iteration of the Coding 101 Intensive program. For an overview of the summer, including all panels and talks from academic & industry professionals, see the uploaded schedule (Coding101_Schedule.pdf). Students were introduced to all coding oncepts that appear in the current COMP 11 (Intro to CS) curriculum at Tufts University, with the exception of recursion, over the course of only 10 days. 
 
-Each day consisted of a 30 minute recap of the prior day's materials and lab solutions, 30 minutes of new lecture material via slides, 30 minutes of live/collaborative coding in Python/Replit, and a 2 hour coding lab. Each coding lab was developed and hosted by the TAs of the program. Lecture material was created by the program instructor (Ashley Suh), with the help of several resources:
+Each day consisted of a 30 minute recap of the prior day's materials and lab solutions, 30 minutes of new lecture material via slides, 30 minutes of live/collaborative coding in Python/Replit, a 2 hour coding lab, and a 30 minute skills-building module. Each coding lab was developed and hosted by the TAs of the program, and can be found in /labs. All lectures, slides, live-coding, and skills-building modules were given by the program instructor (Ashley Suh), and can be found under /lectures. The skills-building module consisted of live coding where students were taught: (1) how to develop their personal websites using HTML/CSS, and (2) how to develop an app prototype using Figma. Lecture material was created by the program instructor, with the help of several resources:
 
 - Automate the Boring Stuff with Python (Sweigart)
 - Begin to Code in Python (Microsoft)
